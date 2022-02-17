@@ -1,4 +1,5 @@
-# VideoGame
+# Game Review
+Angular 11 with public API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
 
